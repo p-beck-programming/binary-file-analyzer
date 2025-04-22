@@ -1,0 +1,15 @@
+pyelftools 
+
+threadpoolctl 
+
+pefile 
+
+numpy 
+
+joblib 
+
+capstone 
+
+scipy 
+
+scikit-learn
